@@ -239,7 +239,7 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #2a4494;
+  box-shadow: 0 0 0 3px #054a91;
   transition: all 500ms ease;
   padding-top: 11%;
   display: flex;
@@ -247,7 +247,7 @@ a:hover {
   /*align-content: center;*/
 }
 .socials .ico-circle:hover {
-  background-color: #2a4494;
+  background-color: #054a91;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
