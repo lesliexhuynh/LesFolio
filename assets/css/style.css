@@ -38,6 +38,10 @@ p {
   font-family: "Poppins", sans-serif;
 }
 
+.italic {
+  font-style: italic;
+}
+
 a {
   color: #1e1e1e;
   text-decoration: none;
