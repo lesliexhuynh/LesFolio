@@ -15,9 +15,10 @@ body {
 }
 
 @font-face {
-  font-family: "Atami-Stencil";
-  src: url(/assets/css/fonts/Atami-Stencil.woff) format("woff");
-  font-weight: medium;
+  font-family: "atamistencil";
+  src: url("atami-stencil-webfont.woff2") format("woff2"),
+    url("atami-stencil-webfont.woff") format("woff");
+  font-weight: normal;
   font-style: normal;
 }
 
