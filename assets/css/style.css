@@ -107,11 +107,11 @@ a:hover {
   background-size: cover;
   background-position: center center;
 }
-@media (max-width: 1024px) {
+/* @media (max-width: 1024px) {
   .bg-image {
     background-attachment: scroll;
   }
-}
+}  */
 
 /*.overlay-mf {
   background-color: #71ace1;
@@ -241,6 +241,10 @@ a:hover {
   margin: 0 15px 0 0;
   box-shadow: 0 0 0 3px #2a4494;
   transition: all 500ms ease;
+  padding-top: 11%;
+  display: flex;
+  justify-content: center;
+  /*align-content: center;*/
 }
 .socials .ico-circle:hover {
   background-color: #2a4494;
@@ -1198,7 +1202,7 @@ a:hover {
 .card-blog .post-date {
   color: #4e4e4e;
   display: inline-block;
-  float: right;
+  /* float: right; */
 }
 
 /*--------------------------------------------------------------
